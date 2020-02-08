@@ -1,0 +1,1 @@
+DB_NAME = 'friday_db'
